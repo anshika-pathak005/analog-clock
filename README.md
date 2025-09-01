@@ -3,7 +3,7 @@
 A fully functional analog clock built using HTML, CSS, and JavaScript. This project was created as practice to understand DOM manipulation, CSS animations, and working with JavaScript’s Date object.  
 
 ## 🔍 Overview  
-I followed a YouTube tutorial for inspiration but wrote the entire code myself.  
+I followed a YouTube tutorial for inspiration and wrote the entire code myself.  
 
 This project was meant for learning rather than adding custom improvements — helping me practice how to:  
 - Dynamically create elements using JavaScript  
@@ -31,7 +31,7 @@ This project was meant for learning rather than adding custom improvements — h
 3. The clock will display and update automatically in real-time.  
 
 ## 📸 Screenshot  
-
+<img width="1366" height="680" alt="image" src="https://github.com/user-attachments/assets/bc1bf667-a30f-4116-994c-ecff7777e0a4" />
 
 ## 🧠 What I Learned  
 - Creating HTML elements dynamically using `insertAdjacentHTML`  

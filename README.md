@@ -16,14 +16,8 @@ A fully functional analog clock built using HTML, CSS, and JavaScript. This proj
 └── index.js     # Logic for creating clock elements and updating hands
 
 ```
-
-## 🚀 Installation / Usage  
-1. Clone or download this repository.  
-2. Open `index.html` in your browser.  
-3. The clock will display and update automatically in real-time.  
-
 ## 📸 Screenshot  
-![Project Demo](analog-clock.mp4)
+![Analog Clock Demo](analog-clock.gif)
 
 ## 🧠 What I Learned  
 - Creating HTML elements dynamically using `insertAdjacentHTML`  

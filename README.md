@@ -1,8 +1,7 @@
 # 🕒 Analog Clock  
 
 A fully functional analog clock built using HTML, CSS, and JavaScript. This project was created as practice to understand DOM manipulation, CSS animations, and working with JavaScript’s Date object.  
-
-## 🔗 [Live Demo - ](https://analog-clock-three-rouge.vercel.app/) 
+### 🔗 [Live Demo - ](https://analog-clock-three-rouge.vercel.app/)
 
 ## ✨ Features  
 - ⏱️ Dynamic hour numbers and second ticks generated using JavaScript  
